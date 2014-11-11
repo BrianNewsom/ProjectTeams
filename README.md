@@ -24,7 +24,7 @@ Project Outline
 
 ## GitHub Repo 
 [As a way to share your project code and handle submissions, please create a GitHub Repo and place the link here so we know where to find your work]
-
+https://github.com/BrianNewsom/CSCI4830-TrafficMonitor
 
 ## Project Sketch
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
@@ -63,6 +63,6 @@ Jake, Mike - Visualization
 
 ## Propose 3 Meeting Times
 [You'll need to meet with Mike sometime during the week of 11/10 to finalize these details.  For this your whole team should try to be available for a **30 minute** meeting.  Mike is unavailable from 12-1 MWF and 12-2 TTh so don't propose those times.]
-
+8:30 am Tuesday (sorry mike)
 
 AND FINALLY... Remember to have fun!  This is going to be a challenging project, and there is going to be some tough hurdles, but it should be a good time if you get into it and get excited about what we're creating.  Mike will do his best to be available and around ATLAS so that in the evenings if students need to come in and work or try things, we can set times to do this.  Also we'll have a hardware expert [Abhishek Narula] from ATLAS who will help us in the process.  

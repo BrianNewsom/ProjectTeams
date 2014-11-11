@@ -28,6 +28,7 @@ Project Outline
 
 ## Project Sketch
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
+We intend to use IR sensors to monitor traffic through the doors. This can be accomplished by using two sensors to sense whether people are entering or leaving the building. Arduinos will run these sensors, and will write data to a file. The visualizations will read the file and create a visualization. In addition, musical notes will play everytime someone walks into the building. The visualization could be a line plot, or have a dot for every person in the building.
 
 ## Hardware
 [This is a preliminary list; it will be finalized in a meeting with Mike (see below)]

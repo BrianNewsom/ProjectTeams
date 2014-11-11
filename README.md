@@ -33,14 +33,13 @@ We intend to use IR sensors to monitor traffic through the doors. This can be ac
 ## Hardware
 [This is a preliminary list; it will be finalized in a meeting with Mike (see below)]
 
-1. Kinect
-2. Raspberry Pi
-3. Infrared Sensor x2
-4. Central Server
-5. Speakers
-6. Monitor
-7. Arduino
-8. Arduino BT shield
+    1. Kinect
+    2. Raspberry Pi
+    3. Infrared Sensor x4
+    4. Central Server
+    5. Speakers
+    6. Monitor
+    7. Arduino
 
 ## Roles
 Given the varying expertise and interests, I'd like you to outline what team member will be responsible for what parts of the project.  It's okay if 2 people want to share certain responsibilities.  This is mostly for your own organization and, if things get rocky, so Mike knows who to talk to in the group.
@@ -61,6 +60,21 @@ Jake, Mike - Visualization
 3. Integrate Hardware, Sound, Visualization prototypes
 4. Setup project in lobby
 
+    * Milestone 1: 
+        - Visual: Some sort of D3 mockup that will interact with the data with sample data
+        - Hardware: Skeleton code for collecting the data, go to Atlas a figure out logistics
+        for wiring up the hardware
+        - Sound: Get trigger inputs (socket API and keyboard input)
+        
+    * Milestone 2: 
+        - Finalize algorithm for IR data, have live data streaming
+        
+    * Milestone 3:
+        - First hardware setup, integration test.
+        
+    * MIlestone 4:
+        - Do it live.
+        
 ## Propose 3 Meeting Times
 [You'll need to meet with Mike sometime during the week of 11/10 to finalize these details.  For this your whole team should try to be available for a **30 minute** meeting.  Mike is unavailable from 12-1 MWF and 12-2 TTh so don't propose those times.]
 8:30 am Tuesday (sorry mike)

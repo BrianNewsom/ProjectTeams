@@ -15,14 +15,16 @@ Project Outline
 --> 200 Total
 
 ## Team Members
-* Person 
-* Person
-* Person
-* Person
-* Person
+* Marc Simpson
+* Ian Ker-Seymer
+* Jake White
+* Adrian Chen
+* Mike Fyk
+* Brian Newsom
 
 ## GitHub Repo 
 [As a way to share your project code and handle submissions, please create a GitHub Repo and place the link here so we know where to find your work]
+
 
 ## Project Sketch
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
@@ -30,13 +32,22 @@ Project Outline
 ## Hardware
 [This is a preliminary list; it will be finalized in a meeting with Mike (see below)]
 
-1. List
-2. of
-3. needed 
-4. Hardware
+1. Kinect
+2. Raspberry Pi
+3. Infrared Sensor x2
+4. Central Server
+5. Speakers
+6. Monitor
 
 ## Roles
 Given the varying expertise and interests, I'd like you to outline what team member will be responsible for what parts of the project.  It's okay if 2 people want to share certain responsibilities.  This is mostly for your own organization and, if things get rocky, so Mike knows who to talk to in the group.
+
+Adrian, Marc - Hardware setup
+Everyone - Algorithm to detect people
+Ian - System administration of server, etc.
+Brian, Ian - Sound
+Jake, Mike - Visualization
+
 
 ## 4 Milestones
 [Please list 4 Project Milestones you'll complete week-to-week to show your progress.  You will need to turn in some tangible example to prove you've completed 1 milestone each week.  Some combination of code snippets, data, screenshots, picture of the hardware setup, etc.  If these milestones need to change slightly, that's OK, as long as you tell Mike and Tom at least 2 days before submission (and as long as you haven't arbitrarily reduced the workload)]

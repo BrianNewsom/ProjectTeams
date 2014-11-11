@@ -15,12 +15,12 @@ Project Outline
 --> 200 Total
 
 ## Team Members
-* Marc Simpson
-* Ian Ker-Seymer
+* Marc Simpson (marc.simpson@colorado.edu)
+* Ian Ker-Seymer (i.kerseymer@gmail.com)
 * Jake White
 * Adrian Chen
 * Mike Fyk
-* Brian Newsom
+* Brian Newsom (brian.newsom@colorado.edu)
 
 ## GitHub Repo 
 [As a way to share your project code and handle submissions, please create a GitHub Repo and place the link here so we know where to find your work]

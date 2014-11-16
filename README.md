@@ -80,3 +80,14 @@ Jake, Mike - Visualization
 8:30 am Tuesday (sorry mike)
 
 AND FINALLY... Remember to have fun!  This is going to be a challenging project, and there is going to be some tough hurdles, but it should be a good time if you get into it and get excited about what we're creating.  Mike will do his best to be available and around ATLAS so that in the evenings if students need to come in and work or try things, we can set times to do this.  Also we'll have a hardware expert [Abhishek Narula] from ATLAS who will help us in the process.  
+
+Visualize 1 
+============
+
+Jake White and I (Mike Fyk) met to discuss visualizing people coming into the room. We decided that we would use circles to represent the number of people in the room. As the number of people increases, the hue of the circles changes from purple (low wavelength) to red (high wavelength), the size of the circles gets smaller, and the circles move faster. We found a great example with paper.js that displays circles with impressive collisions and allows us to control the size, speed, and color of the circles and we can write functions to update these values from the data. We are also considering overlaying text, estimating when the room is most likely to get less/more crowded, and showing past data/forcasted data below the visualization depending on our ability to implement these features. We have attached screenshots of the visualizations we made below.
+
+Less Crowded:
+(Less Crowded) [http://i.imgur.com/hDKWIXk.png]
+
+More Crowded:
+(More Crowded) [http://i.imgur.com/jfUQYbV.png]
